@@ -1,39 +1,38 @@
-# Sarathi-
-A web application built with advanced Google SEO metadata optimization and integrated Netlify Identity management.
-# 📱 SARATHI — The Student Companion App
+# 🌟 SARATHI — Your Ultimate Study Companion
 
-Welcome to the official repository for **Sarathi**, a smart utility web application engineered to help fellow students seamlessly build, track, and organize their exam schedules and daily study timetables.
+**Sarathi** is an intelligent, feature-packed student utility web application designed to optimize daily productivity, track academic progress, and simplify timetable management. 
 
-🌐 **[Launch the Live Web App](PASTE_YOUR_LIVE_NETLIFY_LINK_HERE)**
+🌐 **[Launch Sarathi Live Web App](https://sarathibysaptarshi.netlify.app)**
 
 ---
 
-## 🚀 Project Overview
-As a student, balancing classes, exams, and personal study hours requires strict logic. **Sarathi** acts as a digital companion that simplifies this process. 
-
-The original codebase was conceptualized using an independent logical framework, generated through advanced prompt engineering with **OpenAI ChatGPT**, and successfully deployed to the cloud via **Netlify**.
-
----
-
-## 🛠️ Tech Stack & Architecture
-* **Frontend Stacks:** HTML5, CSS3, JavaScript (Foundational UI & Logic)
-* **AI Ecosystem:** OpenAI ChatGPT (Advanced Prompt & Logic Structuring)
-* **Cloud Infrastructure:** Netlify Cloud Hosting & Continuous Git Integration
-* **Mobile Workstation:** Fully maintained and managed via Samsung Galaxy A14 5G
+## ⚡ Core Features Built in Sarathi
+- 📅 **Daily Study Planner:** Instantly generate balanced, actionable daily study timetables.
+- 📝 **Exam Planner:** Keep track of upcoming test schedules and critical academic deadlines.
+- ⏲ **Built-in Pomodoro Timer:** A 25-minute focus clock to boost concentration and study cycles.
+- 🔥 **Gamified Progress Tracking:** Tracks Study Streaks (Days), Level-ups, and awards custom Achievement Badges (e.g., 🥉 Beginner to advanced tiers) based on performance.
+- 🌙 **Theme Personalization:** Smooth dark/light mode toggle for late-night study sessions.
 
 ---
 
-## ⚡ Key Milestones & Advanced Implementations
-- 🔍 **Advanced Google SEO Optimization:** Injected structural meta-tags directly into the HTML framework to guarantee precision indexing during search engine crawls (`<title>Sarathi - Built by Saptarshi</title>`).
-- 🔒 **Netlify Identity Integration:** Upgraded authentication workflows using the Netlify Identity widget to prepare for secure user accounts.
-- 📱 **Mobile-First Continuity:** Rebuilt and maintained directly from a mobile device workspace to ensure the project remains live despite hardware challenges.
+## 🛠️ Tech Stack & Pipeline
+* **Frontend Architecture:** HTML5, CSS3, JavaScript (Foundational UI, State Tracking & Scheduling Logic)
+* **AI Ecosystem:** OpenAI ChatGPT (Advanced Prompt Engineering & Structural Formulations)
+* **Cloud & Infrastructure:** Netlify Cloud Hosting with Automated Continuous Deployment Pipelines
+* **Workstation Resilience:** Fully rebuilt, updated, and managed directly from a mobile device (Samsung Galaxy A14 5G).
 
 ---
 
-## 🎯 Future Roadmap
-- **December 2026:** Transitioning the backend logic to independent software development by incorporating **Python Programming**.
-- Expanding features to include automated push notifications for upcoming exam sheets.
+## 🔍 Google SEO & Netlify Identity Optimization
+- **Advanced Metadata Injection:** Built-in semantic SEO headers (`<title>Sarathi - Built by Saptarshi</title>`) optimized for maximum crawler indexing visibility on search engines.
+- **Netlify Identity Core:** Upgraded workspace with secure user authentication workflows.
 
 ---
-👨‍💻 **Developer:** Saptarshi Biswas (Class 9 Student at Ramakrishna Vivekananda Mission Gopal Govinda Academy, Barrackpore)  
+
+## 🎯 Future Vision & Winter Roadmap
+- **December 2026 Shift:** Moving towards independent software engineering by integration of **Python Programming** backend structures (Learned under Coder & Acco Tax).
+- Implementing global database saving to store student profiles permanently.
+
+---
+👨‍💻 **Developer:** Saptarshi Biswas (Class 9 Student at Ramakrishna Vivekananda Mission Gopal Govinda Academy, Barrackpore, West Bengal, India)  
 🎓 **Shoutout:** Proud Mamato Bhai (Maternal Cousin) of **Srinjoy Pramanick** (JIS College of Engineering).
